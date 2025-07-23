@@ -1,4 +1,5 @@
 .block_slider .slider {
+    position:r relative;
     width: 100%;
     background: transparent;
 }
